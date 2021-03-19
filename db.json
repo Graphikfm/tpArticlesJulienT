@@ -1,0 +1,61 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Article 1",
+      "content": "lorem ipsum ..."
+    },
+    {
+      "id": 2,
+      "title": "",
+      "content": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "content": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "content": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "content": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "content": ""
+    },
+    {
+      "id": 7,
+      "title": "titre1",
+      "content": "blabla"
+    },
+    {
+      "id": 8,
+      "title": "titre1",
+      "content": "blabla"
+    },
+    {
+      "id": 9,
+      "title": "titre 2",
+      "content": "blabla2"
+    },
+    {
+      "id": 10,
+      "title": "testb",
+      "content": "blablabla"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "some comment",
+      "articlesId": 1
+    }
+  ]
+}
